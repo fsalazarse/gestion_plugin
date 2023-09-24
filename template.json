@@ -1,0 +1,17 @@
+{
+    "instruction":[{
+      "category":[{
+        "gestionPlugin":[{
+          "idPlugin": "ff",
+          "idRol": "adsdasd",
+          "idInterfaz": "ajajaj",
+          "accion": "cambiar estado"
+        }],
+        "gestoDeCompunicacion":[],
+        "administracionDeSeguridad":[]
+      }],
+      "inputFile": ["none"],
+      "outFile": ["none"],
+      "inputUser":"none" 
+    }]
+}
